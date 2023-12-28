@@ -1,0 +1,83 @@
+<yml_catalog date="2023-12-28 10:58">
+    <shop>
+        <name>ABC</name>
+        <company>Pulse-Soft</company>
+        <currencies>
+            <currency id="UAH" rate="1" />
+        </currencies>
+        <categories>
+            <category id="1" >POS-термінали</category>
+            <category id="2" >POS-принтери</category>
+            <category id="3" >Сканери штрих-кодів</category>
+        </categories>
+        <offers>
+            <offer id="1" available="true">
+                <price>2300.00</price>
+                <stock_quantity>40</stock_quantity>
+                <currencyId>UAH</currencyId>
+                <categoryId>2</categoryId>
+                <picture> https://raw.githubusercontent.com/alexlomakin312/rozetka/main/Rongta-RP80_350x350_2.jpg </picture>
+                <picture> https://raw.githubusercontent.com/alexlomakin312/rozetka/main/Rongta80.jpg </picture>
+                <name> Чековый термопринтер </name>
+                <name_ua> Чековий термопринтер </name_ua>
+                <vendor>Rongta</vendor>
+                <description>
+                    <Принтер печати чеков. Коммуникационный порт USB. Размер бумаги 80mm. Есть крепление на стену. Скорость печати 250 мм в секунду!>
+                </description>
+                <description_ua>
+                    < Принтер друку чеків. Комунікаційний порт USB. Розмір паперу 80мм. Є кріплення на стіну. Швидкість друку 250 мм за секунду!>
+                </description_ua>
+                <param name="Страна-производитель товара" paramid="98900" >Китай</param>
+                <param name="Гарантия" paramid="20769" >1 рік</param>
+                </param>
+        </offers>
+                <offers>
+            <offer id="2" available="true">
+                <price>2300.00</price>
+                <stock_quantity>40</stock_quantity>
+                <currencyId>UAH</currencyId>
+                <categoryId>2</categoryId>
+                <picture> https://raw.githubusercontent.com/alexlomakin312/rozetka/main/Rongta-RP80_350x350_2.jpg </picture>
+                <picture> https://raw.githubusercontent.com/alexlomakin312/rozetka/main/Rongta80.jpg </picture>
+                <name> Чековый термопринтер </name>
+                <name_ua> Чековий термопринтер </name_ua>
+                <vendor>Rongta</vendor>
+                <description>
+                    <Принтер печати чеков. Коммуникационный порт LAN. Размер бумаги 80mm. Есть крепление на стену. Скорость печати 250 мм в секунду!>
+                </description>
+                <description_ua>
+                    < Принтер друку чеків. Комунікаційний порт LAN. Розмір паперу 80мм. Є кріплення на стіну. Швидкість друку 250 мм за секунду!>
+                </description_ua>
+                <param name="Страна-производитель товара" paramid="98900" >Китай</param>
+                <param name="Гарантия" paramid="20769" >1 рік</param>
+                </param>
+        </offers>
+                        <offers>
+            <offer id="3" available="true">
+                <price>13 000.00</price>
+                <stock_quantity>40</stock_quantity>
+                <currencyId>UAH</currencyId>
+                <categoryId>1</categoryId>
+                <picture> https://raw.githubusercontent.com/alexlomakin312/rozetka/main/TB2tbyxpHBmpuFjSZFAXXaQ0pXa_!!880274321.jpg </picture>
+                <picture> https://raw.githubusercontent.com/alexlomakin312/rozetka/main/NewTerminal1.jpg </picture>
+                <name> POS-терминал сенсорный</name>
+                <name_ua> POS-термінал сенсорний </name_ua>
+                <vendor>Rongta</vendor>
+                <description>
+                    <Сенсорний компьютер>
+                </description>
+                <description_ua>
+                    < POS-термінал сенсорний TouchSystem 15". Celeron J1800 2.41 GHz+2.41 GHz, 4Gb, 32Gb SSD>
+                </description_ua>
+                <param name="Країна-виробник товару" valueid="544338">Китай</param>
+                <param name="Гарантія" valueid="6178">1 рік</param>
+                <param name="Операційні системи" >Windows</param>
+                <param name="Оперативна пам'ять" >4 Gb DDR3</param>
+                <param name="Інтерфейси" >RS-232, LPT, USB x 6</param>
+                <param name="Характеристики дисплея" >сенсорный</param>
+                <param name="Процесор" >Celeron J1800 2.41 GHz+2.41 GHz</param>
+                <param name="Колір" >Чорний</param>
+                </param>
+        </offers>
+    </shop>
+</yml_catalog>
